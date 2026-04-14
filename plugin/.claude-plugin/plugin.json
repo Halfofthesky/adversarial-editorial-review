@@ -1,0 +1,17 @@
+{
+  "name": "adversarial-editorial-review",
+  "version": "0.1.0",
+  "description": "Rigorous adversarial peer review of humanities scholarship, using three independent reviewers with distinct critical orientations and an editorial synthesis.",
+  "author": {
+    "name": "Stanislav"
+  },
+  "license": "MIT",
+  "keywords": [
+    "peer-review",
+    "humanities",
+    "academic-writing",
+    "editorial",
+    "scholarship",
+    "manuscript-review"
+  ]
+}

@@ -1,0 +1,21 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+npm-debug.log
+
+# Local build scratch (keep dist/*.skill and dist/*.plugin in git as release artifacts)
+*.tmp
+/tmp/
