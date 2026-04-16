@@ -1,6 +1,6 @@
 # Adversarial Editorial Review
 
-Rigorous adversarial peer review of humanities scholarship, delivered as a Claude skill.
+Rigorous adversarial review of humanities scholarship, delivered as a Claude skill.
 
 Three independent reviewers with distinct critical orientations read the submitted text; an editorial synthesis consolidates their reports into a prioritised revision agenda and overall verdict. Designed to surface weaknesses that any single reading perspective would miss.
 
