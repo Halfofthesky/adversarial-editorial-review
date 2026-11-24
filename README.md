@@ -4,6 +4,8 @@ Rigorous adversarial review of humanities scholarship, delivered as a Claude ski
 
 Three independent reviewers with distinct critical orientations read the submitted text; an editorial synthesis consolidates their reports into a prioritised revision agenda and overall verdict. Designed to surface weaknesses that any single reading perspective would miss.
 
+<img width="1200" height="673" alt="adversarial" src="https://github.com/user-attachments/assets/be95fd49-b22f-4b9f-a1a0-3492789e8a26" />
+
 ## What's in this repo
 
 | Path | For whom | What it is |
