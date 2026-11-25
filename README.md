@@ -63,6 +63,13 @@ The repo and plugin are named `adversarial-editorial-review`, but the skill insi
 
 Issues and pull requests welcome. For substantive changes to the reviewer roles or methodology, open an issue first to discuss.
 
+## See also
+
+- [BEAM](https://github.com/Halfofthesky/beam): maps what each source does in your text.
+- [Concept Check](https://github.com/Halfofthesky/concept-check): tests whether a concept earns its place.
+- [Evidence Tests](https://github.com/Halfofthesky/evidence-tests): weighs the evidence for causal claims against rival explanations.
+- [Logic & Reasoning Skills](https://github.com/Halfofthesky/logic-reasoning-skills): reconstructs arguments, spots fallacies, solves formal logic.
+
 ## License
 
 MIT. See `LICENSE`.
