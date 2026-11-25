@@ -68,6 +68,7 @@ Issues and pull requests welcome. For substantive changes to the reviewer roles 
 - [BEAM](https://github.com/Halfofthesky/beam): maps what each source does in your text.
 - [Concept Check](https://github.com/Halfofthesky/concept-check): tests whether a concept earns its place.
 - [Evidence Tests](https://github.com/Halfofthesky/evidence-tests): weighs the evidence for causal claims against rival explanations.
+- [Stasis](https://github.com/Halfofthesky/stasis): finds where a disagreement sits and whether the text meets it there.
 - [Logic & Reasoning Skills](https://github.com/Halfofthesky/logic-reasoning-skills): reconstructs arguments, spots fallacies, solves formal logic.
 
 ## License
